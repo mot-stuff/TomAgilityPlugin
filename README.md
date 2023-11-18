@@ -1,5 +1,7 @@
-# Rooftop Agility Improved - v0.5.3
+# Tom's Agility Plugin - Modfied (improved) Improved Agility Rooftop - v0.5.3
 Improved clickboxes for rooftop agility courses. Modified for use with AHKs with super helpful features.
+
+Big improvement is mostly tracking which spot to be used between login sessions. It was reseting between sessions in main version. Also modified for ahks so it can be used with my products seemlessly with less options because some of them are just bad. 
 
 Lots of credit to TicTac7x for Rooftop Agility Improved. I grabbed a lot of the object IDs and some logic from here for the obstacles. Added some nice ahk functionality with start and end tiles as well as reset tiles built in, as well as 5x5 clickbox squares instead of the whole thing. All colors are adjustable in the config. Mainly for use with my custom ahks that use low level input. You could use this legit though it doesnt have anything illegal in the code it is all contextual overlays.
 
