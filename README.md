@@ -1,5 +1,8 @@
-# Tom's Agility Plugin - Modfied (improved) Improved Agility Rooftop - v0.5.3
+# Tom's Agility Plugin - Modfied (improved) Improved Agility Rooftop - v0.3
 Improved clickboxes for rooftop agility courses. Modified for use with AHKs with super helpful features.
+
+Most Recent Update:
+- Added Gnome Stronghold support. Working on priff.
 
 Big improvement is mostly tracking which spot to be used between login sessions. It was reseting between sessions in main version. Also modified for ahks so it can be used with my products seemlessly with less options because some of them are just bad. 
 
@@ -30,7 +33,7 @@ Lots of credit to TicTac7x for Rooftop Agility Improved. I grabbed a lot of the 
 - [x] Pollnivneach
 - [x] Rellekka
 - [x] Ardougne
-- [ ] Gnome course
+- [x] Gnome Stronghold
 - [ ] Priff
 
 - Used basically the source of multiple plugins to combine this into something better. Lots of credit to TicTac7x for much of the object IDs and some classes so I didn't have to write it myself. 
