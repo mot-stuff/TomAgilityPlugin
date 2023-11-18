@@ -28,6 +28,7 @@ import safers.rooftops.courses.RooftopCoursePollnivneach;
 import safers.rooftops.courses.RooftopCourseRellekka;
 import safers.rooftops.courses.RooftopCourseSeers;
 import safers.rooftops.courses.RooftopCourseVarrock;
+import safers.rooftops.courses.RooftopCourseGnome;
 
 import javax.annotation.Nullable;
 import java.util.ArrayList;
@@ -50,6 +51,7 @@ public class RooftopsCourseManager {
         new RooftopCoursePollnivneach(),
         new RooftopCourseRellekka(),
         new RooftopCourseArdougne(),
+            new RooftopCourseGnome(),
     };
 
     private final List<TileObject> obstacles = new ArrayList<>();

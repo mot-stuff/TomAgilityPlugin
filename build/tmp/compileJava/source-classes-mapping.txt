@@ -12,8 +12,8 @@ safers/rooftops/MarkOfGrace.java
  safers.rooftops.MarkOfGrace
 safers/rooftops/courses/Obstacle.java
  safers.rooftops.courses.Obstacle
-safers/rooftops/RooftopsPlugin.java
- safers.rooftops.RooftopsPlugin
+safers/rooftops/courses/RooftopCoursePollnivneach.java
+ safers.rooftops.courses.RooftopCoursePollnivneach
 safers/rooftops/courses/RooftopCourseAlKharid.java
  safers.rooftops.courses.RooftopCourseAlKharid
 safers/rooftops/courses/RooftopCourseArdougne.java
@@ -30,11 +30,13 @@ safers/rooftops/courses/RooftopCourseVarrock.java
  safers.rooftops.courses.RooftopCourseVarrock
 safers/rooftops/courses/RooftopCourseDraynor.java
  safers.rooftops.courses.RooftopCourseDraynor
-safers/rooftops/RooftopsCourseManager.java
- safers.rooftops.RooftopsCourseManager
+safers/rooftops/courses/RooftopCourseGnome.java
+ safers.rooftops.courses.RooftopCourseGnome
 safers/rooftops/courses/RooftopCourseRellekka.java
  safers.rooftops.courses.RooftopCourseRellekka
-safers/rooftops/courses/RooftopCoursePollnivneach.java
- safers.rooftops.courses.RooftopCoursePollnivneach
+safers/rooftops/RooftopsCourseManager.java
+ safers.rooftops.RooftopsCourseManager
+safers/rooftops/RooftopsPlugin.java
+ safers.rooftops.RooftopsPlugin
 safers/rooftops/RooftopsOverlay.java
  safers.rooftops.RooftopsOverlay
