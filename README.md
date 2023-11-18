@@ -39,5 +39,9 @@ Lots of credit to TicTac7x for Rooftop Agility Improved. I grabbed a lot of the 
 - [x] Ardougne
 - [x] Gnome Stronghold
 - [ ] Priff
+- [ ] Agility Pyramid
+- [ ] Barbarian
+- [ ] Penguin
+- [ ] Ape Atoll
 
 - Used basically the source of multiple plugins to combine this into something better. Lots of credit to TicTac7x for much of the object IDs and some classes so I didn't have to write it myself. 
