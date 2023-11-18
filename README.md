@@ -1,6 +1,10 @@
 # Tom's Agility Plugin - Modfied (improved) Improved Agility Rooftop - v0.3
 Improved clickboxes for rooftop agility courses. Modified for use with AHKs with super helpful features.
 
+![image](https://github.com/mot-stuff/TomAgilityPlugin/assets/108921418/db779f72-4bf2-453e-96c8-2bacaf52f336)
+
+
+
 Most Recent Update:
 - Added Gnome Stronghold support. Working on priff.
 
